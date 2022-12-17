@@ -1,4 +1,4 @@
-#include <arvp/BatteryLevelling.hpp>
+#include <libuavcan/arvp/BatteryLevelling.hpp>
 #include <uavcan/equipment/power/BatteryInfo.hpp>
 
 #include <uavcanNodeIDs.h>
